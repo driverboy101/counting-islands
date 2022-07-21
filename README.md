@@ -77,5 +77,5 @@ An island is surrounded by water and is formed by connecting adjacent lands hori
      ["0","0","0","0","0"],
      ["0","0","0","0","1"]]
 
-    -- Output: 0 --
+    -- Output: 2 --
     ```
